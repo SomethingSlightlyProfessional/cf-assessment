@@ -1,0 +1,6 @@
+name = "jh-cf-assessment"
+type = "webpack"
+account_id = "1350cc0cf675c7f5827572416108958f"
+workers_dev = true
+route = ""
+zone_id = ""
